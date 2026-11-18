@@ -7,3 +7,4 @@
 - Implemented vectorization, K-Means on the shared 50-D features, and inverse-transform top terms. The first dataset load downloaded and cached 20 Newsgroups. The run produced 3,944 initial rows and 3,775 retained documents. Used the output to answer Q2.1–Q2.3, then saved the stage in Git.
 - Ran PCA and UMAP on the same 50-D representation and inspected both figures. Recorded trustworthiness of 0.6973 and 0.9565 and silhouette of 0.3105 and 0.3006, respectively. Used those results for Q3.1 and Q3.2.
 - Ran the contingency table, majority-vote purity, and the four-panel plot. The run produced 83.66% purity. Checked both rows of the panel against the contingency table before answering Q4.1 and Q4.2.
+- Restarted with a fresh Jupyter kernel and executed all 21 code cells in order. Checked the eight answers, the starter TODO markers, and all five rendered plots in the PDF. Source and AI disclosures are included. The public work-history link remains pending.
